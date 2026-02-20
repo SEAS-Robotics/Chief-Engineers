@@ -1,6 +1,6 @@
 {
-    "name": "robot100_200-RemoteControl-Beginner (v2.23.0: 25-1010-2330)",
-    "version": "2.22.1",
+    "name": "robot100_200-RemoteControl-Chief-Engineers",
+    "version": "v2.23.0: 25-1010-2330",
     "description": "",
     "dependencies": {
         "core": "*",
