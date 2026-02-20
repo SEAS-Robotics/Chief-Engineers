@@ -844,7 +844,7 @@ quest_Note_2.quest_Show_String_For_Note_Big_Func(
 quest_Note_2.quest_Show_String_For_Note_Small_Func(
 "... Range [21-255], Default = 1"
 )
-network_GroupChannel_MyBotAndController_Base0_Int = 15
+network_GroupChannel_MyBotAndController_Base0_Int = 7329
 setup_Code_For_System_Func()
 quest_Note_1.quest_Show_String_For_Note_Big_Func(
 "Below, Setup Code for Teacher:"
