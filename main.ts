@@ -1,5 +1,5 @@
 // // jwc 24-0214-0310-rq100-onecode-bot_controller-beginner-final.ts
-// This is the source file for the Chief Engineers
+// This is the source file for the Chief Engineers to study and modify
 function screen_PlotNewDot_ClearOldDot_WithHeartbeat_Func (screen_x_new_num: number, screen_y_new_num: number) {
     led.plotBrightness(screen_X_Old_Num, screen_Y_Old_Num, screen_XY_Brightness_Old_Num)
     screen_X_Old_Num = screen_x_new_num
